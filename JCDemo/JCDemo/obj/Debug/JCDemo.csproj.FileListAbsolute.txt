@@ -1,0 +1,7 @@
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo\bin\JCDemo.dll
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo\bin\JCDemo.pdb
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo\bin\EntityFramework.dll
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo\bin\EntityFramework.xml
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo\obj\Debug\JCDemo.dll
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo\obj\Debug\JCDemo.pdb

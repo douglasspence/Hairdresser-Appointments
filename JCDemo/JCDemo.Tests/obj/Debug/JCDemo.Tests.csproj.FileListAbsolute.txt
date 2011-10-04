@@ -1,0 +1,8 @@
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo.Tests\bin\Debug\JCDemo.Tests.dll.config
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo.Tests\bin\Debug\JCDemo.Tests.dll
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo.Tests\bin\Debug\JCDemo.Tests.pdb
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo.Tests\bin\Debug\JCDemo.dll
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo.Tests\bin\Debug\JCDemo.pdb
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo.Tests\obj\Debug\JCDemo.Tests.dll
+C:\Users\Douglas\Hairdresser-Appointments\JCDemo\JCDemo.Tests\obj\Debug\JCDemo.Tests.pdb
